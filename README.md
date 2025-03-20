@@ -62,7 +62,7 @@ The code is organized into several key components:
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install Flask Flask-Session torch torchvision Pillow requests firebase-admin
    ```
 
 3. **Create Firebase Key File**:
@@ -150,15 +150,3 @@ The Leaf Disease Detection System is a significant leap forward in agricultural 
 ### GitHub Repository 📚
 
 [Link to your GitHub repository](https://github.com/your-repo/leaf-disease-detection)
-
----
-
-### Contact 📲
-
-For any questions or collaborations, feel free to reach out to us at [your email address](mailto:your-email@example.com).
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/24067450/890e8e5d-e96e-4419-a59e-7d1915770715/paste.txt
-
----
-Answer from Perplexity: pplx.ai/share
