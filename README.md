@@ -57,7 +57,7 @@ The code is organized into several key components:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/leaf-disease-detection.git
+   https://github.com/ishaanagarwal78/Leaf-Disease-Detection-System-.git
    ```
 
 2. **Install Dependencies**:
@@ -74,7 +74,7 @@ The code is organized into several key components:
    ```
 
 5. **Access the Application**:
-   - Open a web browser and navigate to `http://127.0.0.1:5000`.
+   - Open a web browser and navigate to `http://127.0.0.1:5000`. This is for the local deployement
 
 ## Contributing 🤝
 
@@ -149,4 +149,4 @@ The Leaf Disease Detection System is a significant leap forward in agricultural 
 
 ### GitHub Repository 📚
 
-[Link to your GitHub repository](https://github.com/your-repo/leaf-disease-detection)
+[Link to your GitHub repository](https://github.com/ishaanagarwal78/Leaf-Disease-Detection-System-.git)
