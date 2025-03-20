@@ -149,4 +149,4 @@ The Leaf Disease Detection System is a significant leap forward in agricultural 
 
 ### GitHub Repository 📚
 
-[Link to your GitHub repository](https://github.com/ishaanagarwal78/Leaf-Disease-Detection-System-.git)
+[Link to our GitHub repository](https://github.com/ishaanagarwal78/Leaf-Disease-Detection-System-.git)
